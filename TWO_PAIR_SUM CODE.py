@@ -17,4 +17,4 @@ target=26
 i=0
 j=len(arr)-1
 result=twosum(arr,i,j,target)
-print(result)
+print(re
